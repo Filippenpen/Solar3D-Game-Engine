@@ -1,0 +1,65 @@
+C:\Users\fpenusilski17\Desktop\1\Splarni Sistem 3D-\Splarni Sistem 3D\Splarni Sistem 3D\bin\Debug\Splarni Sistem 3D.exe
+C:\Users\fpenusilski17\Desktop\1\Splarni Sistem 3D-\Splarni Sistem 3D\Splarni Sistem 3D\bin\Debug\Splarni Sistem 3D.pdb
+C:\Users\fpenusilski17\Desktop\1\Splarni Sistem 3D-\Splarni Sistem 3D\Splarni Sistem 3D\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\fpenusilski17\Desktop\1\Splarni Sistem 3D-\Splarni Sistem 3D\Splarni Sistem 3D\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\fpenusilski17\Desktop\1\Splarni Sistem 3D-\Splarni Sistem 3D\Splarni Sistem 3D\obj\x86\Debug\Splarni Sistem 3D.csproj.GenerateResource.Cache
+C:\Users\fpenusilski17\Desktop\1\Splarni Sistem 3D-\Splarni Sistem 3D\Splarni Sistem 3D\obj\x86\Debug\Splarni Sistem 3D.exe
+C:\Users\fpenusilski17\Desktop\1\Splarni Sistem 3D-\Splarni Sistem 3D\Splarni Sistem 3D\obj\x86\Debug\Splarni Sistem 3D.pdb
+C:\Users\fpenusilski17\Desktop\Solarni sistem\1-20181219T150725Z-001\1\Splarni Sistem 3D-\Splarni Sistem 3D\Splarni Sistem 3D\obj\x86\Debug\Splarni Sistem 3D.exe
+C:\Users\fpenusilski17\Desktop\Solarni sistem\1-20181219T150725Z-001\1\Splarni Sistem 3D-\Splarni Sistem 3D\Splarni Sistem 3D\obj\x86\Debug\Splarni Sistem 3D.pdb
+C:\Users\fpenusilski17\Desktop\Solarni sistem\1-20181219T150725Z-001\1\Splarni Sistem 3D-\Splarni Sistem 3D\Splarni Sistem 3D\bin\Debug\Splarni Sistem 3D.exe
+C:\Users\fpenusilski17\Desktop\Solarni sistem\1-20181219T150725Z-001\1\Splarni Sistem 3D-\Splarni Sistem 3D\Splarni Sistem 3D\bin\Debug\Splarni Sistem 3D.pdb
+C:\Users\fpenusilski17\Desktop\Solarni sistem\1-20181219T150725Z-001\1\Splarni Sistem 3D-\Splarni Sistem 3D\Splarni Sistem 3D\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\fpenusilski17\Desktop\Solarni sistem\1-20181219T150725Z-001\1\Splarni Sistem 3D-\Splarni Sistem 3D\Splarni Sistem 3D\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\fpenusilski17\Desktop\Solarni sistem\1-20181219T150725Z-001\1\Splarni Sistem 3D-\Splarni Sistem 3D\Splarni Sistem 3D\obj\x86\Debug\Splarni Sistem 3D.csproj.GenerateResource.Cache
+C:\Users\fpenusilski17\Desktop\fafafafa-20181219T160540Z-001\fafafafa\1-20181219T150725Z-001\1\Splarni Sistem 3D-\Splarni Sistem 3D\Splarni Sistem 3D\obj\x86\Debug\Splarni Sistem 3D.exe
+C:\Users\fpenusilski17\Desktop\fafafafa-20181219T160540Z-001\fafafafa\1-20181219T150725Z-001\1\Splarni Sistem 3D-\Splarni Sistem 3D\Splarni Sistem 3D\obj\x86\Debug\Splarni Sistem 3D.pdb
+C:\Users\fpenusilski17\Desktop\fafafafa-20181219T160540Z-001\fafafafa\1-20181219T150725Z-001\1\Splarni Sistem 3D-\Splarni Sistem 3D\Splarni Sistem 3D\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\fpenusilski17\Desktop\fafafafa-20181219T160540Z-001\fafafafa\1-20181219T150725Z-001\1\Splarni Sistem 3D-\Splarni Sistem 3D\Splarni Sistem 3D\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\fpenusilski17\Desktop\fafafafa-20181219T160540Z-001\fafafafa\1-20181219T150725Z-001\1\Splarni Sistem 3D-\Splarni Sistem 3D\Splarni Sistem 3D\obj\x86\Debug\Splarni Sistem 3D.csproj.GenerateResource.Cache
+C:\Users\fpenusilski17\Desktop\fafafafa-20181219T160540Z-001\fafafafa\1-20181219T150725Z-001\1\Splarni Sistem 3D-\Splarni Sistem 3D\Splarni Sistem 3D\bin\Debug\Splarni Sistem 3D.exe
+C:\Users\fpenusilski17\Desktop\fafafafa-20181219T160540Z-001\fafafafa\1-20181219T150725Z-001\1\Splarni Sistem 3D-\Splarni Sistem 3D\Splarni Sistem 3D\bin\Debug\Splarni Sistem 3D.pdb
+C:\Users\fpenusilski17\Desktop\dfsdf\2-20181221T121652Z-001\3\fafafafa\1-20181219T150725Z-001\1\Splarni Sistem 3D-\Splarni Sistem 3D\Splarni Sistem 3D\obj\x86\Debug\Splarni Sistem 3D.exe
+C:\Users\fpenusilski17\Desktop\dfsdf\2-20181221T121652Z-001\3\fafafafa\1-20181219T150725Z-001\1\Splarni Sistem 3D-\Splarni Sistem 3D\Splarni Sistem 3D\obj\x86\Debug\Splarni Sistem 3D.pdb
+C:\Users\fpenusilski17\Desktop\dfsdf\2-20181221T121652Z-001\3\fafafafa\1-20181219T150725Z-001\1\Splarni Sistem 3D-\Splarni Sistem 3D\Splarni Sistem 3D\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\fpenusilski17\Desktop\dfsdf\2-20181221T121652Z-001\3\fafafafa\1-20181219T150725Z-001\1\Splarni Sistem 3D-\Splarni Sistem 3D\Splarni Sistem 3D\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\fpenusilski17\Desktop\dfsdf\2-20181221T121652Z-001\3\fafafafa\1-20181219T150725Z-001\1\Splarni Sistem 3D-\Splarni Sistem 3D\Splarni Sistem 3D\obj\x86\Debug\Splarni Sistem 3D.csproj.GenerateResource.Cache
+C:\Users\fpenusilski17\Desktop\dfsdf\2-20181221T121652Z-001\3\fafafafa\1-20181219T150725Z-001\1\Splarni Sistem 3D-\Splarni Sistem 3D\Splarni Sistem 3D\bin\Debug\Splarni Sistem 3D.exe
+C:\Users\fpenusilski17\Desktop\dfsdf\2-20181221T121652Z-001\3\fafafafa\1-20181219T150725Z-001\1\Splarni Sistem 3D-\Splarni Sistem 3D\Splarni Sistem 3D\bin\Debug\Splarni Sistem 3D.pdb
+C:\Users\Boris\Desktop\solarni sistem 3d\3\fafafafa\1-20181219T150725Z-001\1\Splarni Sistem 3D-\Splarni Sistem 3D\Splarni Sistem 3D\bin\Debug\Splarni Sistem 3D.exe
+C:\Users\Boris\Desktop\solarni sistem 3d\3\fafafafa\1-20181219T150725Z-001\1\Splarni Sistem 3D-\Splarni Sistem 3D\Splarni Sistem 3D\bin\Debug\Splarni Sistem 3D.pdb
+C:\Users\Boris\Desktop\solarni sistem 3d\3\fafafafa\1-20181219T150725Z-001\1\Splarni Sistem 3D-\Splarni Sistem 3D\Splarni Sistem 3D\obj\x86\Debug\Splarni Sistem 3D.csprojAssemblyReference.cache
+C:\Users\Boris\Desktop\solarni sistem 3d\3\fafafafa\1-20181219T150725Z-001\1\Splarni Sistem 3D-\Splarni Sistem 3D\Splarni Sistem 3D\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Boris\Desktop\solarni sistem 3d\3\fafafafa\1-20181219T150725Z-001\1\Splarni Sistem 3D-\Splarni Sistem 3D\Splarni Sistem 3D\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Boris\Desktop\solarni sistem 3d\3\fafafafa\1-20181219T150725Z-001\1\Splarni Sistem 3D-\Splarni Sistem 3D\Splarni Sistem 3D\obj\x86\Debug\Splarni Sistem 3D.csproj.GenerateResource.cache
+C:\Users\Boris\Desktop\solarni sistem 3d\3\fafafafa\1-20181219T150725Z-001\1\Splarni Sistem 3D-\Splarni Sistem 3D\Splarni Sistem 3D\obj\x86\Debug\Splarni Sistem 3D.csproj.CoreCompileInputs.cache
+C:\Users\Boris\Desktop\solarni sistem 3d\3\fafafafa\1-20181219T150725Z-001\1\Splarni Sistem 3D-\Splarni Sistem 3D\Splarni Sistem 3D\obj\x86\Debug\Splarni Sistem 3D.exe
+C:\Users\Boris\Desktop\solarni sistem 3d\3\fafafafa\1-20181219T150725Z-001\1\Splarni Sistem 3D-\Splarni Sistem 3D\Splarni Sistem 3D\obj\x86\Debug\Splarni Sistem 3D.pdb
+C:\Users\fpenusilski17\Desktop\4-20181225T091925Z-001\4\1-20181219T150725Z-001\1\Splarni Sistem 3D-\Splarni Sistem 3D\Splarni Sistem 3D\obj\x86\Debug\Splarni Sistem 3D.exe
+C:\Users\fpenusilski17\Desktop\4-20181225T091925Z-001\4\1-20181219T150725Z-001\1\Splarni Sistem 3D-\Splarni Sistem 3D\Splarni Sistem 3D\obj\x86\Debug\Splarni Sistem 3D.pdb
+C:\Users\fpenusilski17\Desktop\4-20181225T091925Z-001\4\1-20181219T150725Z-001\1\Splarni Sistem 3D-\Splarni Sistem 3D\Splarni Sistem 3D\bin\Debug\Splarni Sistem 3D.exe
+C:\Users\fpenusilski17\Desktop\4-20181225T091925Z-001\4\1-20181219T150725Z-001\1\Splarni Sistem 3D-\Splarni Sistem 3D\Splarni Sistem 3D\bin\Debug\Splarni Sistem 3D.pdb
+C:\Users\fpenusilski17\Desktop\4-20181225T091925Z-001\4\1-20181219T150725Z-001\1\Splarni Sistem 3D-\Splarni Sistem 3D\Splarni Sistem 3D\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\fpenusilski17\Desktop\4-20181225T091925Z-001\4\1-20181219T150725Z-001\1\Splarni Sistem 3D-\Splarni Sistem 3D\Splarni Sistem 3D\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\fpenusilski17\Desktop\4-20181225T091925Z-001\4\1-20181219T150725Z-001\1\Splarni Sistem 3D-\Splarni Sistem 3D\Splarni Sistem 3D\obj\x86\Debug\Splarni Sistem 3D.csproj.GenerateResource.Cache
+C:\Users\fpenusilski17\Desktop\5-20181225T135954Z-001\5\1-20181219T150725Z-001\1\Splarni Sistem 3D-\Splarni Sistem 3D\Splarni Sistem 3D\obj\x86\Debug\Splarni Sistem 3D.exe
+C:\Users\fpenusilski17\Desktop\5-20181225T135954Z-001\5\1-20181219T150725Z-001\1\Splarni Sistem 3D-\Splarni Sistem 3D\Splarni Sistem 3D\obj\x86\Debug\Splarni Sistem 3D.pdb
+C:\Users\fpenusilski17\Desktop\5-20181225T135954Z-001\5\1-20181219T150725Z-001\1\Splarni Sistem 3D-\Splarni Sistem 3D\Splarni Sistem 3D\bin\Debug\Splarni Sistem 3D.exe
+C:\Users\fpenusilski17\Desktop\5-20181225T135954Z-001\5\1-20181219T150725Z-001\1\Splarni Sistem 3D-\Splarni Sistem 3D\Splarni Sistem 3D\bin\Debug\Splarni Sistem 3D.pdb
+C:\Users\fpenusilski17\Desktop\5-20181225T135954Z-001\5\1-20181219T150725Z-001\1\Splarni Sistem 3D-\Splarni Sistem 3D\Splarni Sistem 3D\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\fpenusilski17\Desktop\5-20181225T135954Z-001\5\1-20181219T150725Z-001\1\Splarni Sistem 3D-\Splarni Sistem 3D\Splarni Sistem 3D\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\fpenusilski17\Desktop\5-20181225T135954Z-001\5\1-20181219T150725Z-001\1\Splarni Sistem 3D-\Splarni Sistem 3D\Splarni Sistem 3D\obj\x86\Debug\Splarni Sistem 3D.csproj.GenerateResource.Cache
+C:\Users\fpenusilski17\Desktop\6-20181228T111039Z-001\6\1-20181219T150725Z-001\1\Splarni Sistem 3D-\Splarni Sistem 3D\Splarni Sistem 3D\obj\x86\Debug\Splarni Sistem 3D.exe
+C:\Users\fpenusilski17\Desktop\6-20181228T111039Z-001\6\1-20181219T150725Z-001\1\Splarni Sistem 3D-\Splarni Sistem 3D\Splarni Sistem 3D\obj\x86\Debug\Splarni Sistem 3D.pdb
+C:\Users\fpenusilski17\Desktop\6-20181228T111039Z-001\6\1-20181219T150725Z-001\1\Splarni Sistem 3D-\Splarni Sistem 3D\Splarni Sistem 3D\bin\Debug\Splarni Sistem 3D.exe
+C:\Users\fpenusilski17\Desktop\6-20181228T111039Z-001\6\1-20181219T150725Z-001\1\Splarni Sistem 3D-\Splarni Sistem 3D\Splarni Sistem 3D\bin\Debug\Splarni Sistem 3D.pdb
+C:\Users\fpenusilski17\Desktop\6-20181228T111039Z-001\6\1-20181219T150725Z-001\1\Splarni Sistem 3D-\Splarni Sistem 3D\Splarni Sistem 3D\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\fpenusilski17\Desktop\6-20181228T111039Z-001\6\1-20181219T150725Z-001\1\Splarni Sistem 3D-\Splarni Sistem 3D\Splarni Sistem 3D\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\fpenusilski17\Desktop\6-20181228T111039Z-001\6\1-20181219T150725Z-001\1\Splarni Sistem 3D-\Splarni Sistem 3D\Splarni Sistem 3D\obj\x86\Debug\Splarni Sistem 3D.csproj.GenerateResource.Cache
+C:\Users\fpenusilski17\Desktop\7-20190111T113833Z-001\7\Splarni Sistem 3D-\Splarni Sistem 3D\Splarni Sistem 3D\obj\x86\Debug\Splarni Sistem 3D.exe
+C:\Users\fpenusilski17\Desktop\7-20190111T113833Z-001\7\Splarni Sistem 3D-\Splarni Sistem 3D\Splarni Sistem 3D\obj\x86\Debug\Splarni Sistem 3D.pdb
+C:\Users\fpenusilski17\Desktop\7-20190111T113833Z-001\7\Splarni Sistem 3D-\Splarni Sistem 3D\Splarni Sistem 3D\bin\Debug\Splarni Sistem 3D.exe
+C:\Users\fpenusilski17\Desktop\7-20190111T113833Z-001\7\Splarni Sistem 3D-\Splarni Sistem 3D\Splarni Sistem 3D\bin\Debug\Splarni Sistem 3D.pdb
+C:\Users\fpenusilski17\Desktop\7-20190111T113833Z-001\7\Splarni Sistem 3D-\Splarni Sistem 3D\Splarni Sistem 3D\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\fpenusilski17\Desktop\7-20190111T113833Z-001\7\Splarni Sistem 3D-\Splarni Sistem 3D\Splarni Sistem 3D\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\fpenusilski17\Desktop\7-20190111T113833Z-001\7\Splarni Sistem 3D-\Splarni Sistem 3D\Splarni Sistem 3D\obj\x86\Debug\Splarni Sistem 3D.csproj.GenerateResource.Cache
