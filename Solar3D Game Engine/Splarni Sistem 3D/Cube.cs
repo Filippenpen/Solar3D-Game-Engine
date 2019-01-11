@@ -8,46 +8,43 @@ namespace WindowsFormsApplication1
 {
     class Cube : Body
     {
-        Point3D CubePoint;
-        List<Point3D> CubeVectors;
         double H;
         double W;
         double L;
-        double Arg = 0;
-        double Inc = 0;
-        double longOf = 0;
 
-
-        public void setCube()
-        {
-            CubePoint = new Point3D(0, 0, 0);
-            CubeVectors = new List<Point3D>();
-            /*1*/
-            CubeVectors.Add(new Point3D(CubePoint.GetSet_X, CubePoint.GetSet_Y, CubePoint.GetSet_Z));
-            /*2*/
-            CubeVectors.Add(new Point3D(CubePoint.GetSet_X + L, CubePoint.GetSet_Y, CubePoint.GetSet_Z));
-            /*3*/
-            CubeVectors.Add(new Point3D(CubePoint.GetSet_X, CubePoint.GetSet_Y + H, CubePoint.GetSet_Z));
-            /*4*/
-            CubeVectors.Add(new Point3D(CubePoint.GetSet_X + L, CubePoint.GetSet_Y + H, CubePoint.GetSet_Z));
-            /*5*/
-            CubeVectors.Add(new Point3D(CubePoint.GetSet_X, CubePoint.GetSet_Y, CubePoint.GetSet_Z + W));
-            /*6*/
-            CubeVectors.Add(new Point3D(CubePoint.GetSet_X + L, CubePoint.GetSet_Y, CubePoint.GetSet_Z + W));
-            /*7*/
-            CubeVectors.Add(new Point3D(CubePoint.GetSet_X, CubePoint.GetSet_Y + H, CubePoint.GetSet_Z + W));
-            /*8*/
-            CubeVectors.Add(new Point3D(CubePoint.GetSet_X + L, CubePoint.GetSet_Y + H, CubePoint.GetSet_Z + W));
-
-        }
         public Cube(double Height, double Width, double length)
         {
             H = Height;
             W = Width;
             L = length;
             setCube();
+            BodyVectorsRotMove = BodyMove(EulerRotate());
         }
 
+        public void setCube()
+        {
+            
+            CubeVectors = new List<Point3D>();
+            /*1*/
+            CubeVectors.Add(new Point3D(-L/2, -H/2, -W/2));
+            /*2*/
+            CubeVectors.Add(new Point3D(CubeVectors[0].GetSet_X + L, CubeVectors[0].GetSet_Y, CubeVectors[0].GetSet_Z));
+            /*3*/
+            CubeVectors.Add(new Point3D(CubeVectors[0].GetSet_X, CubeVectors[0].GetSet_Y + H, CubeVectors[0].GetSet_Z));
+            /*4*/
+            CubeVectors.Add(new Point3D(CubeVectors[0].GetSet_X + L, CubeVectors[0].GetSet_Y + H, CubeVectors[0].GetSet_Z));
+            /*5*/
+            CubeVectors.Add(new Point3D(CubeVectors[0].GetSet_X, CubeVectors[0].GetSet_Y, CubeVectors[0].GetSet_Z + W));
+            /*6*/
+            CubeVectors.Add(new Point3D(CubeVectors[0].GetSet_X + L, CubeVectors[0].GetSet_Y, CubeVectors[0].GetSet_Z + W));
+            /*7*/
+            CubeVectors.Add(new Point3D(CubeVectors[0].GetSet_X, CubeVectors[0].GetSet_Y + H, CubeVectors[0].GetSet_Z + W));
+            /*8*/
+            CubeVectors.Add(new Point3D(CubeVectors[0].GetSet_X + L, CubeVectors[0].GetSet_Y + H, CubeVectors[0].GetSet_Z + W));
+
+        }
+       
+        /*
         public List<Point3D> EulerRotate()
         {
             List<Point3D> CubeVectorsRot = new List<Point3D>();
@@ -58,8 +55,8 @@ namespace WindowsFormsApplication1
 
             }
             return CubeVectorsRot;
-        }
-
+        }*/
+        /*
         public List<PointF> CubeVectorsPerPoints()
         {
             List<PointF> CubeVectorsPerPoints = new List<PointF>();
@@ -72,8 +69,8 @@ namespace WindowsFormsApplication1
             }
             int v = 5;
             return CubeVectorsPerPoints;
-        }
-        public void DrawCube(Graphics a)
+        }*/
+        public override void DrawBody(Graphics a)
         {
         Pen pen = new Pen(Color.White, 1);
             List<PointF> Point = CubeVectorsPerPoints();
